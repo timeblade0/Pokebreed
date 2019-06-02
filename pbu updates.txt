@@ -1,0 +1,9 @@
+* updates to Pokebreed Ultimate 5/30/10
+-fixed a bug with magicarp babies
+-faster view movement
+-muchlax now eats lots of stuff
+-added a new song to the jukebox
+-added mareep family
+-pikachu can now use thunder wave (middle click)
+-improved code for a small performance boost
+-changed sprite of leafeon to offical sprite
