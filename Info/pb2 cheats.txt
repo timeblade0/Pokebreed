@@ -1,3 +1,0 @@
-get $1000 = gimmecash
-moon theme = moonlight
-ultimate rare candy = jollyrancher
