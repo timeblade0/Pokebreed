@@ -2,7 +2,7 @@
 
 ![Screenshot](https://github.com/timeblade0/pokebreed_ultimate/blob/master/screenshot.png)
 
-##Game Info
+## Game Info
 
 Pokemon games let you breed 2 Pokemon at a time. What if you want to breed more? What if you want to crossbreed for new species?
 Want a Vulpix? Breed an Eevee with a Charmander. 
