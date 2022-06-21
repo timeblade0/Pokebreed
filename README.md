@@ -9,10 +9,8 @@ Mix and match to see what crossbred species will be born.
 -8 Gym Leaders requesting certain breeds
 -Customize your breeding ranch
 
-<Download Here>
-
 Press F1 in game for controls.
 
-How to play:
+# How to play:
 
 When the game starts, the will be 2 Charmanders, 2 Squirtles, and 2 Bulbasaurs in pens. Left click a gate to open or close it. Drag a Pokemon to where ever you want. Bring 2 Pokemon of different gender to the breeding area (corner pens) and they will breed. 2 of the same specie make a baby, while mixed species make different Pokemon. Most Pokemon will evolve over time, but some need stones to evolve. Eggs have a 50:50 chance of male or female. You can press enter to open the shop and buy more Pokemon.
