@@ -1,0 +1,18 @@
+0 normal
+1 fire
+2 grass
+3 water
+4 electric
+5 fighting
+6 ground
+7 flying
+8 bug
+9 steel
+10 dark
+11 psychic
+12 rock
+13 poison
+14 dragon
+15 ice
+
+100 none

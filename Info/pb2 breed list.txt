@@ -1,0 +1,43 @@
+charmander = shop
+charmeleon = evolve charmander
+charizard = evolve charmeleon
+
+bulbasaur = shop
+ivysaur = evolve bulbasaur
+venusaur = evolve ivysaur
+
+squirtle = shop
+wartortle = evolve squirtle
+blastoise = evolve blastoise
+
+scyther = shop
+scizor = scyther + steel stone
+demiscyth = scyther + dark stone
+scical = scyther + sun stone
+
+koffing = shop
+weezing = evolve koffing
+
+geodude = shop
+graveler = evolve geodude
+golem = evolve graveler
+
+pichu = breed pikachu
+pikachu = shop
+raichu = pikachu + thunder stone
+
+diglett = shop
+dugduo = evolve diglett
+dugtrio = evolve dugduo
+
+torkoal = charmander + squirtle
+
+ekans = shop
+arbok = evolve ekans
+
+dratini = ekans + charmander
+dragonair = evolve dratini
+dragonite = evolve dragonair
+
+pyroshell = charizard * blastoise
+dragizard = charizard * dragonite
