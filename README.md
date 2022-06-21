@@ -21,3 +21,6 @@ Bring 2 Pokemon of different gender to the breeding area (corner pens) and they 
 2 of the same species make a baby, while mixed species make different Pokemon.  
 Most Pokemon will evolve over time, but some need stones to evolve.  
 Eggs have a 50:50 chance of male or female. You can press enter to open the shop and buy more Pokemon.  
+
+## Breed List
+Check out the [Wiki](https://github.com/timeblade0/pokebreed_ultimate/wiki) page for the breed list.
