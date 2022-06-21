@@ -1,0 +1,194 @@
+All pokemon not including eggs or smaller pokemon (baby charmander)
+
+Articuno - Wingull + Squirtle + ice stone
+Moltres - Tourchic + charmander + fire stone
+Pidgey - shop
+Pidgeotto - evolved pidgy
+Pidgeot - evolved pidgeotto
+Torchic - pidgy + charmander
+Combusken - evolved tourchic
+Blaziken - evolved combusken
+Wingull - squirtle + pidgy
+Peliper - evolved wingull
+Zubat - pidgy + ekans
+Golbat - evolved zubat
+Crobat - evolved golbat
+Caterpie - shop
+Metapod - evolved caterpie
+Butterfree - evolved metapod
+Venonat - koffing + butterfree
+Venoshell -evolved venonat
+Venomoth - evolved venomoth
+Charmander - shop
+Charmeleon - evolved charmander
+Charizard - evolved charmeleon
+Togepi - shop
+Togetic - evolved togepi
+Eevee - shop
+Nateon - eevee + grass stone
+Umbreon - eevee + dark stone
+Flareon - eevee + fire stone
+Jolteon - eevee + thunder stone
+Vaporeon - eevee + water stone
+Soleon - eevee + sun stone
+Espeon - eevee + psy stone
+Metaleon - eevee + steel stone
+Lunareon - eevee + moon stone
+Drageon - eevee + dragon stone
+Stalageon - eevee + ice stone
+Vulpix - eevee + charmander
+Ninetailes - evolved ninetails
+Grimer - squirtle + koffing
+Muk - evolved grimer
+Koffing - shop
+Weezing - evolved koffing
+Magnemite - shop
+Magnetwo - fuse = magnemite + magenemite
+Magneton - fuse = magnemite + magenemite + magnemite
+Magnequad - fuse = magnemite + magenemite + magnemite + magenemite
+Porygon - shop
+Porygon2 - porygon2 + moon stone
+Tek - porygon + charmander
+Cybar - evolved tek
+Vurgon - evolved cybar
+Voltorb - pokeball + electric pokemon
+Electrode - evolved voltorb
+Zan - shop
+Zang - evolved zan
+Zanga - evolved zanga
+Bluba - charmander + bulbasaur + bubble
+Ekans - shop
+Arbok - evolved ekans
+Gastly - torkoal + squirtle
+Haunter - evolved gastly
+Gengar - evolved haunter
+Treeko - bulbasaur + charmander
+Grovyle - evolved treeko
+Sceptile - evolved sceptile
+Bulbasaur - shop
+Ivysaur - evolved bulbasaur
+Venusaur - evolved venusaur
+Sapler - bulbasaur + squirtle
+Floura - evolved sapler
+Sunar - evolved floura
+Oddish - sapler + bulbasaur ?
+Gloom - evolved oddish
+Vileplume - gloom + leaf stone
+Bellosum - gloom + sun stone
+Tangela - shop
+Abra - shop
+Kadabra - evolved abra
+Alakazam - evolved kadabra
+Ralts - shop
+Kirlia - evolved ralts
+Guardevoir - evolved kirlia
+Jr. Mime - baby mr mime
+Mr. Mime - shop
+Smoochum - baby jynx
+Jynx - shop
+Lugia = Pidgy + Xatu(not natu) + Psy Stone
+Slowpoke = Abra + Goldeen
+Slowbro - slowpoke + shellder
+Slowking - slowpoke + psy stone
+Geodude - shop
+Graveler - evolved geodude
+Golem - evolved graveler
+Onix - geodude + ekans
+Steelix - onix + steel stone
+Pichu - shop
+Pikachu - evolved pichu
+Raichu - pikachu + thunder stone
+Goldeen - shop
+Seeking - shop
+Horsea - charmander + goldeen/seaking
+Seadra - evolved horsea
+Kingdra - seadra + dragon stone
+Psyduck - goldeen + pidgy ?
+Golduck - psyduck + psy stone ?
+Staryu - shop
+Starmie - staryu + psy stone
+Ponder - shop
+Rivert - evolved ponder
+Swamper - evolved rivert
+Shellder - squirtle + goldeen
+Cloyster - evolved shellder
+Slowster - cloyster + water stone
+Squirtle - shop
+Wortortle - evolved squirtle
+Blastoise - evolved wartortle
+Magby - charmander + mr mime
+Magmar - evolved magby
+Tauros - shop
+Miltank - shop
+Ponyta - tauros + charmander
+Rapidash - evolved ponyta
+Electrike - eevee + pikachu
+Manectric - evolved electrike
+Poochyena - shop
+Mightyena - evolved poochyena
+Growlith - pochyenea + charmander
+Arcanine - growlith + fire stone
+Nidoran Male - shop
+Nidorino - evolved nidroan male
+Nidoking - nidorino + moon stone
+Nidran Female - shop
+Nidorina - evolved nidoran female
+Nidoqueen - nidorina + moon stone
+Mewtwo - abra + jynx + psy stone
+Mew - beat game
+Delibird - shop
+Zapdos - pidgy + pikachu + thunder stone
+Ho-oh - moltres + pidgy
+Dratini - ekans + charmander
+Dragonair - evolved dratini
+Dragonite - evolved dragonair
+Dragnafire - fuse dragonite + charizard, dragonite = domanant
+Flamemew - fuse mew + moltres, mew is domanant
+Wigglychu - fuse wigglytuff + pikachu, wigglytuff = domanant
+Regice - squirtle + deilibird + ice stone
+Natu - pidgy + abra
+Xatu - evolved natu
+Ominyte - geodude + squirtle + fossil
+Omastar - evolved ominyte
+Gonbe - baby snorlax
+Snorlax - shop
+Cyndaquil - charmander + pikachu
+Quilava - evolved cyndaquill
+Typhlosion - evolved quilava
+Rhyhorn - tauros + geodude
+Rhydon - evolved rhyhorn
+Pyroshell - fuse charmander + blastoise (opp gender) blastoise = domanant
+Entie - growlith + charmander + fire stone ?
+Esptei - fuse espeon + entie, entie = domanant
+Houndour growlith + poochyena
+Houndoom - evolved houndour
+Cerberous - houndoom + dark stone
+Scyther - shop
+Scizor - scyther + steel stone
+Demiscyth - scyther + dark stone
+Regirock - geodude + onix + fossil ?
+Raikou - electrike + pikachu + thunder stone ?
+Beldum - magnemite + abra + steel stone
+Metang - fuse: beldum + beldum
+Metagross - fuse: metang + metang
+Latios - abra + dratini
+Latias - abra + dratini
+Suicune - poochyena + squirtle + water stone
+Registeel - magnemite + geodude = steel stone
+Azurill - pikachu + squirtle
+Marill - evolved azurill
+Azumarill - marill + water stone
+Pikablu - fuse marill + pikachu, pikachu = domanant
+Sandshrew - Pikachu + Diglett
+Igglybuff - Eevee + Koffing
+Jigglypuff - Evolved Igglybuff
+Wigglytuff - jigglypuff + Moon Stone
+Aerodactyle - geodude + pidgy + fossil
+Skarmory - Aerodactyle + Steel Stone
+Celibi - Bulbasaur + abra/ralts
+Jirachi - Jigglypuff + abra/ralts
+Clefa - eevee + togepi
+Clefairy - evolve cleffa
+Clefable - clefairy + moon stone
+plusle/minun - pikachu + togepi
+Diglett - shop
