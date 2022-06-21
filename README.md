@@ -1,6 +1,6 @@
 # Pokebreed Ultimate
 
-![Screenshot](https://github.com/timeblade0/pokebreed_ultimate/blob/master/screenshot.png)
+![Screenshot](https://github.com/timeblade0/pokebreed_ultimate/blob/pokebreed-ultimate/screenshot.png)
 
 ## Game Info
 
