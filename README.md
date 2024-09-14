@@ -1,5 +1,5 @@
 # Pokebreed Ultimate
-![Screenshot](https://github.com/timeblade0/pokebreed_ultimate/blob/pokebreed-ultimate/screenshot.png)
+![Screenshot](https://github.com/timeblade0/pokebreed/blob/003_pokebreed_ultimate/screenshot.png)
 
 ## Game Info
 - Pokemon games let you breed 2 Pokemon at a time. What if you want to breed more? What if you want to crossbreed for new species?
