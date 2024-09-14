@@ -1,0 +1,77 @@
+Converting GML script: ${project_dir}\scripts\scp_zoom\scp_zoom.gml
+Converted builtin - line 7: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 15: view_xview=mouse_x-view_wview*_mouse_x -> __view_set( e__VW.XView, 0, mouse_x-view_wview*_mouse_x )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 16: view_yview=mouse_y-view_hview*_mouse_y -> __view_set( e__VW.YView, 0, mouse_y-view_hview*_mouse_y )
+Converted builtin - line 7: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 11: view_wview=base_width/global.zoom -> __view_set( e__VW.WView, 0, base_width/global.zoom )
+Converted builtin - line 8: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 12: view_hview=base_height/global.zoom -> __view_set( e__VW.HView, 0, base_height/global.zoom )
+Converted builtin - line 15: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 16: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\scripts\scp_rotate_free_terrain\scp_rotate_free_terrain.gml
+Converted string - line 4: 'R' -> "R"
+
+Converting GML script: ${project_dir}\objects\obj_player\Step_0.gml
+Converted string - line 5: 'A' -> "A"
+Converted string - line 11: 'D' -> "D"
+Converted string - line 17: 'W' -> "W"
+Converted string - line 23: 'S' -> "S"
+
+Converting GML script: ${project_dir}\objects\obj_player\Draw_0.gml
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 11: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 15: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 5: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 11: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 15: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 9: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 11: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 15: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 15: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_player\KeyPress_69.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 15: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 15: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_up_btn\Mouse_4.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Missing audiogroup for sound: 'snd_cash' - setting to default audio group
+Missing audiogroup for sound: 'snd_fusion' - setting to default audio group
+Missing audiogroup for sound: 'snd_evolve' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action/action_bounce.gml'
+Added compatibility script 'action/action_change_object.gml'
+Added compatibility script 'action/action_create_object.gml'
+Added compatibility script 'action/action_draw_sprite.gml'
+Added compatibility script 'action/action_end_game.gml'
+Added compatibility script 'action/action_if_variable.gml'
+Added compatibility script 'action/action_inherited.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_set_alarm.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_snap.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'sound/sound_play.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

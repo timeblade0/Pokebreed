@@ -1,0 +1,6 @@
+fix not enough money in shop message exiting from full screen
+fix evolution stuck on fence
+evolution wheel change to clockwise spinning instead of color change
+
+fix:
+    capture a pokemon, then open and close shop. that pokemon will be activated and in pokeball

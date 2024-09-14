@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scp_breedpad_mate_old",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scp_breedpad_mate_old",
+  "parent":{
+    "name":"archives",
+    "path":"folders/Scripts/Breed/archives.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,12 @@
+slowpoke=squirtle+abra
+    slowbro=slowpoke+shelder/cloyster
+
+aerodactyle=geodude+pidgy
+
+farfetched/delibird
+voltorb - pokeball
+eggsecute=bulbasaur+abra
+cubone/marrowwak/kangashkahn
+hitmonlee/hitmonchan/hitmontop
+pinser/heriacross
+tarus/miltank

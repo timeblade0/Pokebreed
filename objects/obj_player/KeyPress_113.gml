@@ -1,0 +1,1 @@
+//don't reset on F2 press
