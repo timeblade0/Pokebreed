@@ -1,4 +1,4 @@
-# Pokebreed Fireleaf v1.0
+# Pokebreed Fireleaf
 
 [Release Notes](https://github.com/timeblade0/pokebreed_fireleaf/blob/master/notes/release_notes/release_notes.txt)
 
@@ -7,4 +7,4 @@
 I'm working to bring Pokebreed to a newer game engine.
 Made with Game Maker Studio 2 instead of the old one on Game Maker 5.
 
-![Screenshot](https://raw.githubusercontent.com/timeblade0/pokebreed_fireleaf/master/fireleaf.PNG)
+![Screenshot](https://github.com/timeblade0/Pokebreed/blob/004_pokebreed_fireleaf/fireleaf.PNG)
