@@ -7,7 +7,7 @@
 Pokemon games let you breed 2 Pokemon at a time. What if you want to breed more? What if you want to crossbreed for new species?
 Want a Vulpix? Breed an Eevee with a Charmander. 
 Mix and match to see what crossbred species will be born.  
--Over 50 crossbreeds to discover. 
+-Over 50 crossbreeds to discover.  
 -8 Gym Leaders requesting certain breeds  
 -Customize your breeding ranch  
 
