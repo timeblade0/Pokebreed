@@ -1,7 +1,6 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
-    {"name":"todo","order":1,"path":"notes/todo/todo.yy",},
     {"name":"obj_aerodactyl","order":3,"path":"objects/obj_aerodactyl/obj_aerodactyl.yy",},
     {"name":"obj_azurill","order":12,"path":"objects/obj_azurill/obj_azurill.yy",},
     {"name":"obj_bubble_projectile","order":11,"path":"objects/obj_bubble_projectile/obj_bubble_projectile.yy",},

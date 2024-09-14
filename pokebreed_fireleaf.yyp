@@ -181,13 +181,11 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2022.9.1.51",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"pokebreed_fireleaf",
   "resources":[
     {"id":{"name":"font_consolas_16","path":"fonts/font_consolas_16/font_consolas_16.yy",},},
-    {"id":{"name":"release_notes","path":"notes/release_notes/release_notes.yy",},},
-    {"id":{"name":"todo","path":"notes/todo/todo.yy",},},
     {"id":{"name":"obj_abra","path":"objects/obj_abra/obj_abra.yy",},},
     {"id":{"name":"obj_aerodactyl","path":"objects/obj_aerodactyl/obj_aerodactyl.yy",},},
     {"id":{"name":"obj_articuno","path":"objects/obj_articuno/obj_articuno.yy",},},
